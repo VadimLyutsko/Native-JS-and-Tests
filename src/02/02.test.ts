@@ -13,6 +13,7 @@ beforeEach(()=>{
             },
             work: {
                 title: 'rescue',
+                salary:10000,
                 address: {
                     country: 'Russia',
                     city: 'Soligorsk'
@@ -28,6 +29,7 @@ beforeEach(()=>{
             },
             work: {
                 title: 'worker',
+                salary:250000,
                 address: {
                     country: 'Russia',
                     city: 'Minsk',
