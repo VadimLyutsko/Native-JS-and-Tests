@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import {User} from './06/06-callback';
+import {User} from './07/DestructuringAssignment';
+
 
 function App() {
     return (
